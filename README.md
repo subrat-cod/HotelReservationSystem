@@ -6,7 +6,7 @@
   <p>
     <img src="https://img.shields.io/badge/Author-Subrat%20Nayak-blue?style=for-the-badge&logo=github" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   </p>
