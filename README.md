@@ -32,7 +32,7 @@ MySQL Connector/J
 IntelliJ IDEA
 🚀 Installation and Setup
 1. Clone the Repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/subrat-cod/HotelReservationSystem.git
 
 2. Create the Database
 Open MySQL and create your database:
