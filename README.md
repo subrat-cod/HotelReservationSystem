@@ -90,6 +90,8 @@ B.Tech — Artificial Intelligence & Robotics
 OUTR, Bhubaneswar
 ⭐ Support
 If you find this project useful, consider giving the repository a star!
+## App Demo Video
+<video src="HMS_project.mp4" controls width="100%"></HMS_project>
 ---
 <p align="center">
   <b>Built with Java ❤️ JDBC ❤️ MySQL</b>
