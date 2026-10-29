@@ -2,14 +2,14 @@
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,11,20,30,43&height=200&section=header&text=Hotel%20Reservation%20System&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20Robust%20Java%2C%20JDBC%20%26%20MySQL%20CRUD%20Application&descSize=16&descAlignY=65" width="100%"/>
-
-  <p>
-    <img src="https://img.shields.io/badge/Author-Subrat%20Nayak-blue?style=for-the-badge&logo=github" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-Subrat%20Nayak-blue?style=for-the-badge&logo=github" alt="Author">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=sqlite&logoColor=white" alt="JDBC">
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">
+</p>
+ 
 
 </div>
 
